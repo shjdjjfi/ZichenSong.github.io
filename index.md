@@ -1,7 +1,7 @@
 # Personal Background
 
 <img src="IMG_20230107_192232.jpg" width="150" height="200"/><br/>
-* academic qualifications: Bachelor degree
+* Academic qualifications: Bachelor degree
 * Schools attended: Lanzhou University
 * Major: Data Science
 * Grade: Sophomore
@@ -27,4 +27,4 @@
 
 # Paper
 
-* One ML Application paper is being revised(JCR Q2)
+* One ML Application paper is being revised (JCR Q2)
