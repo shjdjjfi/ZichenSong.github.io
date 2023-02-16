@@ -13,7 +13,7 @@
 
 # Awards
 
-## Mathematical Modeling Contest
+## Mathematical Modeling competition
 
 * CUMCM(First Prize)
 * APMCM(Third Prize)
