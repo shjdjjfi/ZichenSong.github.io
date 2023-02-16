@@ -4,18 +4,20 @@
 * academic qualifications: Bachelor degree
 * Schools attended: Lanzhou University
 * major: Data Science
+* grade: Sophomore
 
 # Personal blog address
 
-* Zhihu address：[https://www.zhihu.com/column/c_1608124867542220800](https://www.zhihu.com/column/c_1608124867542220800/)
+* Zhihu address: [https://www.zhihu.com/column/c_1608124867542220800](https://www.zhihu.com/column/c_1608124867542220800/)
+* Kaggle address: [https://www.kaggle.com/sfstlt](https://www.kaggle.com/sfstlt/)
 
 # Awards
 
 ## Mathematical Modeling Contest
 
-* First Prize of Gansu Province in CUMCM China Division
-* APMCM Asia-Pacific Division Third Prize
-* Mathorcup China Division Second Prize
+* CUMCM·China Division·Gansu Province·First Prize
+* APMCM·Asia-Pacific Division·Third Prize
+* Mathorcup·China Division·Second Prize
 
 ## Kaggle
 
