@@ -20,7 +20,7 @@
 * APMCM(Third Prize)
 * Mathorcup(Second Prize)
 
-## Kaggle
+## Kaggle (Solo)
 
 * Novozymes Enzyme Stability Prediction (Top 10% Bronze Medal)
 * OTTO – Multi-Objective Recommender System (Top 20%)
