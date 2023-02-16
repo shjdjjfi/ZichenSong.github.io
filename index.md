@@ -7,10 +7,7 @@
 
 # 关于 blog-demos 代码仓库
 
-1. Github地址：[https://www.zhihu.com/column/c_1608124867542220800](https://www.zhihu.com/column/c_1608124867542220800/)
-2. Gitee地址：[https://gitee.com/gozhuyinglong/blog-demos](https://gitee.com/gozhuyinglong/blog-demos)
-3. 这个代码仓库里是博客中涉及的源码、文件等
-4. 如果对您有帮助，欢迎给个**Star**，感谢~~
+* Github地址：[https://www.zhihu.com/column/c_1608124867542220800](https://www.zhihu.com/column/c_1608124867542220800/)
 
 ## 数据结构与算法
 
