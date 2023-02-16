@@ -9,7 +9,16 @@
 
 * Zhihu address：[https://www.zhihu.com/column/c_1608124867542220800](https://www.zhihu.com/column/c_1608124867542220800/)
 
-## 数据结构与算法
+## Awards
 
-* [数组](https://mp.weixin.qq.com/s/YVbahU_0fzmyEX-JBvcnqQ)
+# Mathematical Modeling Contest
+
+* First Prize of Gansu Province in CUMCM China Division
+* APMCM Asia-Pacific Division Third Prize
+* Mathorcup China Division Second Prize
+
+# Kaggle
+
+* Novozymes Enzyme Stability Prediction (Top 10% Bronze Medal)
+* OTTO – Multi-Objective Recommender System (Top 20%)
 
