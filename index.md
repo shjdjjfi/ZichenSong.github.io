@@ -11,13 +11,13 @@
 
 # Awards
 
-# Mathematical Modeling Contest
+## Mathematical Modeling Contest
 
 * First Prize of Gansu Province in CUMCM China Division
 * APMCM Asia-Pacific Division Third Prize
 * Mathorcup China Division Second Prize
 
-# Kaggle
+## Kaggle
 
 * Novozymes Enzyme Stability Prediction (Top 10% Bronze Medal)
 * OTTO – Multi-Objective Recommender System (Top 20%)
