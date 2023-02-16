@@ -3,8 +3,9 @@
 <img src="IMG_20230107_192232.jpg" width="150" height="200"/><br/>
 * academic qualifications: Bachelor degree
 * Schools attended: Lanzhou University
-* major: Data Science
-* grade: Sophomore
+* Major: Data Science
+* Grade: Sophomore
+* Email: songzch21@lzu.edu.cn
 
 # Personal blog address
 
