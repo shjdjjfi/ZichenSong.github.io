@@ -25,3 +25,6 @@
 * Novozymes Enzyme Stability Prediction (Top 10% Bronze Medal)
 * OTTO – Multi-Objective Recommender System (Top 20%)
 
+# Paper
+
+* One ML Application paper is being revised(JCR Q2)
