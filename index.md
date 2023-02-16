@@ -15,9 +15,9 @@
 
 ## Mathematical Modeling Contest
 
-* CUMCM·China Division·Gansu Province·First Prize
-* APMCM·Asia-Pacific Division·Third Prize
-* Mathorcup·China Division·Second Prize
+* CUMCM(First Prize)
+* APMCM(Third Prize)
+* Mathorcup(Second Prize)
 
 ## Kaggle
 
