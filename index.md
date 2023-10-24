@@ -7,15 +7,12 @@
 * Grade: Sophomore
 * Email: songzch21@lzu.edu.cn
 
-# Personal blog address
-
-* Zhihu address: [https://www.zhihu.com/column/c_1608124867542220800](https://www.zhihu.com/column/c_1608124867542220800/)
-* Kaggle address: [https://www.kaggle.com/sfstlt](https://www.kaggle.com/sfstlt/)
-
 # Participate in the organization
+* Editorial Board Member(Associate Editor), PriMera Scientific Engineering (PSEN)
 * IEEE Student Member; IEEE ACESS reviewer
 * ICANN Student Member; IGTA Member
-* Southern University of Science and Technology —— Visiting Student
+* Southern University of Science and Technology(SUSTech) —— Visiting Student
+* University of Technology Sydney(UTS) —— Remote Access Student
 
 # Awards
 
@@ -34,11 +31,18 @@
 
 # Paper
 
+## Accepted Paper
+
 * Z. Song and S. Ma, "DNN-Based Hospital Service Satisfaction Using GCNNs Learning," in IEEE Access, vol. 11, pp. 65289-65299, 2023, doi: 10.1109/ACCESS.2023.3289867. (JCR Q2)
 * Mutual Information Dropout: Mutual Information Can Be All You Need (ICANN 2023|CCF-C)
 * Novel Regularization Method Exploiting Mutual Information for Deep Neural Networks (RAIIC 2023|EI)
+
+## Under Review Paper
+* Automated Recognition of Solitary Waves Using Spike Neural Network Using Spiking Neural Networks(Network: Computation in Neural Systems|IF=7.8)
 
 # Research Field
 * Explainability machine learning
 * Computer vision
 * Member inference attacks
+* XAI
+* Spiking Neural Networks
